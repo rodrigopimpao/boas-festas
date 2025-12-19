@@ -9,7 +9,7 @@ const pessoas = [
   "Priscila",
   "Sabrina",
   "Siria",
-  "Walace",
+  "Vinícius",
   "Wellington"
 ];
 
